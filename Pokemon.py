@@ -172,7 +172,7 @@ def add_poke():
             print(Poke < gen_check)
             print("")
             main()
-        elif cofirm.upper() == "R":
+        elif confirm.upper() == "R":
             add_poke()
 main()
 
